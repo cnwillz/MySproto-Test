@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_TcpClientSocket.1346741198.00" t="ExcludeRecursive" />
+    <e p="D:\TestingProjects\skynet\TcpClientSocket" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ByteStream.cs" t="Include" />
+          <e p="ProtoDispatcher.cs" t="Include" />
+          <e p="Sproto" t="Include">
+            <e p="SprotoCodec.cs" t="Include" />
+            <e p="SprotoField.cs" t="Include" />
+            <e p="SprotoHelper.cs" t="Include" />
+            <e p="SprotoMgr.cs" t="Include" />
+            <e p="SprotoObject.cs" t="Include" />
+            <e p="SprotoPacker.cs" t="Include" />
+            <e p="SprotoParser.cs" t="Include" />
+            <e p="SprotoProtocol.cs" t="Include" />
+            <e p="SprotoRpc.cs" t="Include" />
+            <e p="SprotoStream.cs" t="Include" />
+            <e p="SprotoType.cs" t="Include" />
+            <e p="Test" t="Include">
+              <e p="BenchMark.cs" t="Include" />
+              <e p="Main.cs" t="Include" />
+              <e p="SimpleExample.cs" t="Include" />
+              <e p="TestAll.cs" t="Include" />
+              <e p="TestSprotoCodec.cs" t="Include" />
+              <e p="TestSprotoObject.cs" t="Include" />
+              <e p="TestSprotoPacker.cs" t="Include" />
+              <e p="TestSprotoParser.cs" t="Include" />
+              <e p="TestSprotoRpc.cs" t="Include" />
+            </e>
+            <e p="TODO.txt" t="Include" />
+          </e>
+          <e p="SprotoTcpSocket.cs" t="Include" />
+          <e p="TcpClientSocket.cs" t="Include" />
+          <e p="Test" t="Include">
+            <e p="Main.cs" t="Include" />
+            <e p="TestSprotoTcpSocket.cs" t="Include" />
+            <e p="TestTcpClientSocket.cs" t="Include" />
+          </e>
+          <e p="TestUnity.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="TcpClientSocket.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
